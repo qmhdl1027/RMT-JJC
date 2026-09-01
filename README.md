@@ -1,7 +1,7 @@
-> [!IMPORTANT]
-> 🚀 **JJC 定制版** — 同步自 zclucas/RMT，由 @qmhdl1027 维护，专注提升易用性
+> [!TIP]
+> **JJC 定制版** - 同步自 zclucas/RMT，qmhdl1027 维护
 
----<h1 align="center">🐇 RMT（若梦兔）</h1>
+<h1 align="center">🐇 RMT（若梦兔）</h1>
 
 <p align="center">
   <b>基于 AutoHotkey v2 的免费开源按键宏工具</b><br>
